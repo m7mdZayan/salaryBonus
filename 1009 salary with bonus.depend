@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510231345 source:e:\acm training\projects\1009 salary with bonus\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
